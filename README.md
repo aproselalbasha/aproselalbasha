@@ -3,10 +3,7 @@
 🚀 Passionate Frontend Developer building interactive and scalable web applications.  
 🎨 Bringing UI to life with React, JavaScript, and modern web technologies.  
 🌱 Always exploring new tools and best practices to improve performance and user experience.  
-
-<div align="right">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/your-gif.gif" width="300px" alt="Professional Developer GIF"/>
-</div>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ### 🔗 My Work  
 - 🌍 **Portfolio:** [aproselalbasha.netlify.app](https://aproselalbasha.netlify.app/)  
