@@ -29,6 +29,6 @@
 
 ### 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aprose-lalbasha/)  
-📧 **Email:** aprose.lalbasha@gmail.com  
+📧 **Email:** ap.aprose@gmail.com  
 
 💡 *Always open to learning, collaboration, and new opportunities!* 🚀  
